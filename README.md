@@ -5,6 +5,6 @@
   [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://drive.google.com/file/d/1NYzmnmK8G5PxIhz0wlRkENfYPl-z3vBz/view?usp=sharing)
 
   # Digital Voice Manipulator
-  Case Study: Development and Application of a Digital Voice Manipulator
+  Case Study: Development and Application of a Digital Voice Manipulator<br>
   Explore the development and practical applications of our innovative Digital Voice Manipulator in this case study.
 </div>
