@@ -8,4 +8,9 @@
   # Digital Voice Manipulator
   Case Study: Development and Application of a Digital Voice Manipulator<br>
   Explore the development and practical applications of our innovative Digital Voice Manipulator in this case study.
+
+  Members:
+    Agripa, Vince Kurt C.
+    Magat, Pamela Mae G.
+    Popes, Mikaela Faye E.
 </div>
