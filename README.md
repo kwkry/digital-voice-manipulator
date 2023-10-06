@@ -14,3 +14,16 @@
     Magat, Pamela Mae G.
     Popes, Mikaela Faye E.
 </div>
+
+# Libraries
+
+1. pydub (Install with `!pip install pydub`)
+   - AudioSegment (Used for audio processing)
+2. os
+3. librosa
+4. soundfile
+5. IPython.display (Used for `Audio` and `display` functions)
+6. matplotlib.pyplot
+7. numpy
+8. wave
+9. ys
