@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="387322537_3725675977655205_584770274270517108_n.jpg" alt="Logo" width="300" height="300" />
+  <img src="Group_Picture_Agripa_Magat_Popes.jpg" alt="Logo" width="300" height="300" />
   
   [![Open on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&color=FF0000)](https://youtu.be/peSTb44w78U?si=aPRgcRD-2LU0DFw5)
   [![Open Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&color=4285F4)](https://drive.google.com/drive/folders/1Os2Snu2mwzi4OKm8ulwivxAgM_ryU1Gw?usp=sharing)
